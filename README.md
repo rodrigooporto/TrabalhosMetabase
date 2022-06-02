@@ -1,7 +1,10 @@
 # Trabalhos com Metabase
 
 ## Nesse repositório coloco meus trabalhos com a ferramenta de visualização de dados Metabase.
-Dashboard com informações academicas sobre o andamento dos convênios entre o IFTO e MTUR, nele exploro filtros alinhados com as respostas sendo atualizadas dinamicamente. Além de projeção dos dados no mapa do Brasil.
+Dashboard com informações academicas sobre a execussão do convênio entre o IFTO e MTUR, para o fornecimento cursos de idiomas voltados aos agentes do turismo, nele exploro filtros alinhados com as respostas sendo atualizadas dinamicamente. Além de projeção dos dados no mapa do Brasil.
+
+## Importante!!!!
+O dashboard foi projetado para ser interpretado em topdown, ou seja, sempre será exibido o todo e podemos ir especificando por meio dos filtros
 
 ### Respostas possíveis com o dashboard.
 1) Quantidade geral de matriculados para os seis cursos ofertados
