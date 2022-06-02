@@ -11,6 +11,7 @@ Dashboard com informações academicas sobre o andamento dos convênios entre o 
 5) Alunos por curso
 6) Alunos por estado / Cidade
 7) Alunos por status de matricula
+8) Distribuíção dos dados no mapa de calor para visualição de quais ações foram mais eficiêntes
 
 
 ![Dados](https://raw.githubusercontent.com/rodrigooporto/TrabalhosMetabase/main/ifto_mtur.gif)
