@@ -2,4 +2,4 @@
 
 ## Nesse repositório coloco meus trabalhos com a ferramenta de visualização de dados Metabase.
 
-![Dados]([MTUR-Dados.png)
+!(https://raw.githubusercontent.com/rodrigooporto/TrabalhosMetabase/main/MTUR-Dados.png)
